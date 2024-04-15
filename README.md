@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FEM Solution - Product Overview](https://your-solution-url.com)
-- Live Site URL: [FEM - Product Overview](https://your-live-site-url.com)
+- Solution URL: [FEM Solution - Product Overview](https://www.frontendmentor.io/solutions/product-preview-card-w-pseudo-elements-data-attributes-and-more-ffn9TTxcoh)
+- Live Site URL: [FEM - Product Overview](https://product-preview-card-component-main-kappa-smoky.vercel.app/)
 
 ## My process
 
